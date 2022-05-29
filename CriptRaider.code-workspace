@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "CriptRaider",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\Games\\Epic Games\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"C:\\Users\\mrbas\\OneDrive\\Documents\\Unreal Projects\\Cript Raider\\Intermediate\\Build\\Win64\\UnrealEditor\\Development\\CriptRaider\\Definitions.CriptRaider.h",
+			"C:\\Users\\mrbas\\OneDrive\\Documents\\Unreal Projects\\Cript Raider\\Intermediate\\Build\\Win64\\CriptRaiderEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
