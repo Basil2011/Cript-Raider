@@ -1,1 +1,1 @@
-look i did not have time to make a game so i used a cript reader course game cuz i did not have any time to make a game in 2 days so yea BTW   there is no win screen so i guess u won in your heart?????
+look i did not have time to make a game so i used a cript raider course game cuz i did not have any time to make a game in 2 days so yea BTW   there is no win screen so i guess u won in your heart?????
