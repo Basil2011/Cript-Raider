@@ -1,1 +1,1 @@
-look i did not have time to make a game so i used a cript raider course game cuz i did not have any time to make a game in 2 days so yea BTW   there is no win screen so i guess u won in your heart?????
+i Didn,t have time to make a game so i made this  is a initial release of the game. anyway the win th when you take the statue and run outside.and i did not make a lose situation so yea everyone's A Winner!
