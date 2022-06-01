@@ -1,1 +1,1 @@
-i Didn,t have time to make a game so i made this  is a initial release of the game. anyway the win th when you take the statue and run outside.and i did not make a lose situation so yea everyone's A Winner!
+i Didn't have time to make a game so i made this. This is a initial release of the game.You win when you take the statue and run outside. And i did not make a lose situation so yea everyone's A Winner!
